@@ -1,0 +1,6 @@
+*.log
+.mypy_cache
+asset/*
+result/*.pickle
+result/screenshot/*
+venv
